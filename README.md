@@ -4,7 +4,7 @@
 - 🌱 Estou estudando tecnologias frontend como React,HTM,CSS entre outras!
 - 😄 Ela/dela
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taynasg&show_icons=true&theme=merko)   
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taynasg&show_icons=true&theme=merko)  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Taynasg&show_icons=true&theme=merko)
 
 
